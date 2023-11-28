@@ -1,7 +1,7 @@
 {
   "name": "alsav-traffic-website",
   "productName": "Alsav Traffic Website",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Alsav Traffic Website",
   "main": "Trackerset.js",
   "scripts": {
@@ -73,7 +73,8 @@
     "extraFiles": [
       "extension/spoof",
       "extension/captcha",
-      "extension/vpn"
+      "extension/vpn",
+      "data/"
     ],
     "files": [
       "!src/style.css"
